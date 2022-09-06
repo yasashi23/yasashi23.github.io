@@ -76,7 +76,7 @@ return lstIndex})
             </div>
             <div className='btn'>
             <Btn value="7" num={setNum} addNum={num}/>
-            <Btn value="8" num={setNum} addNum={num}/>
+            <Btn value="8hdhd" num={setNum} addNum={num}/>
             <Btn value="9" num={setNum} addNum={num}/>
             <BtnOpt value=" x " opt={operat} optFunc={setOperat} optOp = {oper} num={num}/>
             </div>
