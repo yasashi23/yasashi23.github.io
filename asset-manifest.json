@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yasashiReact/static/css/main.389b0139.css",
-    "main.js": "/yasashiReact/static/js/main.e7e5258d.js",
-    "static/js/787.0910f11a.chunk.js": "/yasashiReact/static/js/787.0910f11a.chunk.js",
-    "index.html": "/yasashiReact/index.html",
-    "main.389b0139.css.map": "/yasashiReact/static/css/main.389b0139.css.map",
-    "main.e7e5258d.js.map": "/yasashiReact/static/js/main.e7e5258d.js.map",
-    "787.0910f11a.chunk.js.map": "/yasashiReact/static/js/787.0910f11a.chunk.js.map"
+    "main.css": "/yasashiReactt/static/css/main.389b0139.css",
+    "main.js": "/yasashiReactt/static/js/main.c453381b.js",
+    "static/js/787.0910f11a.chunk.js": "/yasashiReactt/static/js/787.0910f11a.chunk.js",
+    "index.html": "/yasashiReactt/index.html",
+    "main.389b0139.css.map": "/yasashiReactt/static/css/main.389b0139.css.map",
+    "main.c453381b.js.map": "/yasashiReactt/static/js/main.c453381b.js.map",
+    "787.0910f11a.chunk.js.map": "/yasashiReactt/static/js/787.0910f11a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.389b0139.css",
-    "static/js/main.e7e5258d.js"
+    "static/js/main.c453381b.js"
   ]
 }
