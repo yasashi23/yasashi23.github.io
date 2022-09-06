@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yasashiReact/static/css/main.389b0139.css",
-    "main.js": "/yasashiReact/static/js/main.c1da7b00.js",
+    "main.js": "/yasashiReact/static/js/main.e7e5258d.js",
     "static/js/787.0910f11a.chunk.js": "/yasashiReact/static/js/787.0910f11a.chunk.js",
     "index.html": "/yasashiReact/index.html",
     "main.389b0139.css.map": "/yasashiReact/static/css/main.389b0139.css.map",
-    "main.c1da7b00.js.map": "/yasashiReact/static/js/main.c1da7b00.js.map",
+    "main.e7e5258d.js.map": "/yasashiReact/static/js/main.e7e5258d.js.map",
     "787.0910f11a.chunk.js.map": "/yasashiReact/static/js/787.0910f11a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.389b0139.css",
-    "static/js/main.c1da7b00.js"
+    "static/js/main.e7e5258d.js"
   ]
 }
